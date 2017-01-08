@@ -1,4 +1,4 @@
-# Bootstrap CDN minified boilerplate
+<!-- Bootstrap 3.3.7 CDN minified starter template -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
